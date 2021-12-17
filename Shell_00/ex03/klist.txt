@@ -1,0 +1,5 @@
+Credentials cache: API:3AEFE3CE-A0DC-4EA4-915E-3815F00FA582
+        Principal: pperol@42.FR
+
+  Issued                Expires             Flags    Principal
+Sep  6 19:23:36 2021  Sep 13 19:23:24 2021  FPIA   krbtgt/42.FR@42.FR
